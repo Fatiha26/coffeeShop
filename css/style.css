@@ -255,6 +255,7 @@ header.shadow{
 }
 .customer-container .box p{
     font-size: 0.938rem;
+    text-align: justify;
 }
 .customer-container .box h2{
     font-size: 1.2rem;
